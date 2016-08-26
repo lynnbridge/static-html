@@ -25,6 +25,13 @@ HTML | Description
 ```<p>...</ p>``` | Designates the enclosed text as a plain paragraph. 
 ```<div>...</ div>``` | Sets divisions on the page to allow for styling or positioning.
 
+CSS | Description
+--- | ---
+margin: 10px 20px 5px 0 | The 'margin' property is a shorthand property for setting 'margin-top', 'margin-right', 'margin-bottom', and 'margin-left' at the same place in the style sheet.
+padding: 10px 20px 5px 0 | These properties set the top, right, bottom, and left padding of a box.
+font-family: 'Roboto', sans-serif; | This property specifies a prioritized list of font family names and/or generic family names.
+background-color: red / #fff / #123456 | This property sets the background color of an element, either a <color> value or a keyword like 'transparent', to make the underlying colors shine through.
+
 
 ## Assignment
 
@@ -67,6 +74,9 @@ http://www.simplehtmlguide.com/cheatsheet.php
 http://www.htmlgoodies.com/beyond/reference/article.php/3472851/Quick-HTML-Reference.htm
 
 #### Quick CSS Reference
+
+https://www.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf
+
 
 http://www.csszengarden.com/
 
