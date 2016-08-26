@@ -42,11 +42,14 @@ TODO finish the instructions
 
 ## Extra Learning
 
+
+
 #### Tutorials
 
 http://www.w3schools.com/html/
 
 https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579fb998b470000202dc8b
+
 
 ### If you want...
 
@@ -61,6 +64,12 @@ https://www.codecademy.com/courses/web-beginner-en-HZA3b/0/1?curriculum_id=50579
 http://www.simplehtmlguide.com/cheatsheet.php
 
 http://www.htmlgoodies.com/beyond/reference/article.php/3472851/Quick-HTML-Reference.htm
+
+#### Quick CSS Reference
+
+http://www.csszengarden.com/
+
+http://paletton.com/
 
 ## Submitting
 
